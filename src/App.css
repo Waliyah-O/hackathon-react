@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@700&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Encode Sans Expanded', sans-serif;
+  /* color: #000; */
+  /* color: #01bf71; */
+  /* color: #f7fafa; */
+  /* color: #010606; */
+  text-decoration: none;
+}
+
